@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.data-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.data-form label {
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.listEmployee {
+  color: #007bff;
+}
+.spacing {
+  margin-bottom: 10px;
+}
+.buttonList {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  border-color: #007bff;
+}
+.tableEmployees {
+  margin-top: 60px;
+}
